@@ -31,5 +31,6 @@ Datasets:
 -Covid data from the states
   - Colorado,will likely compare several states to see if the data is true on a more national scale
   - do the case numbers reflect the overalll population well or are the numbers disproportionally skewewd toward certian groups
+  
   State Dept of Public health
   Johns Hopkins Covid data 
