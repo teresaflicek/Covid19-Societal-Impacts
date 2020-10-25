@@ -23,5 +23,5 @@ Datasets:
 
 ## Socioeconomic
 
-Datasets:
+Datasets: Proximity to Restaurants (Fast Food, Sit-Down, etc) & Stores (general, convenient,etc)
 
