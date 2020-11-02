@@ -6,7 +6,7 @@ The Branch Covidians:
 - Nick Faber
 - Teresa Flicek
 - Patrick Hudson
-- Tempest Campbell
+- Stuart Yates
 
 ### Overview
 
