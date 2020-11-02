@@ -31,6 +31,8 @@ Question 2: How does each variable related to food deserts or obesity nationwide
 
 Conclusion: Again, each variable tends to have a positive correlation to the confirmed cases and deaths across the USA. Without the r-squared value, I am unable to see exactly how the variables correlate to each other and if they relate closely. Overall, I feel as if I was unable to come to a firm conclusion for the per capita stats. Given time, I do think there will be a general positive correlation between the variables.
 
+![convenience_stores_confirmed](Top5StatesConfObese.png)
+
 What's next?: Due to time constraints, I wasn't able to see my idea to its full potential. Given more time, I would want to compare confirmed cases and deaths to convenience store locations around the nation and in specific states (top 5, bottom 5 for confirmed cases/deaths) using a heatmap or similar visual. I believe this would prove fruitful as it would give an indication has to what populations are contracting / dying from COVID-19 at a higher rate and their general location in relation to convenience stores or grocery stores.
 
 ### Faith in Science
