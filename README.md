@@ -10,9 +10,11 @@ The Git Branch Covidians:
 
 ### Overview
 
-In the face of the greatest global pandemic since 1919, data scientists have rolled up their sleeves and gotten to work collecting and analyzing data from all corners of the world. For this project, we each picked a topic of interest and looked for datasets to compare with data on Covid-19, mostly from Johns Hopkins. Below are some of our findings.
+In the face of the greatest global pandemic since 1919, data scientists have rolled up their sleeves and gotten to work collecting and analyzing data from all corners of the world. For this project, we each picked a topic of interest and looked for datasets to compare with data on Covid-19, mostly from Johns Hopkins. Below are some of our findings. 
 
 ### Obesity and Food Deserts
+
+Does health impact a community's infection and death rate related to COVID-19? While not an easy question to answer even for seasoned scientists, data can help shed some light on how exactly a someone's diet influences their experience with COVID-19. I used data collected from the [USDA's Food Environment Atlas](https://www.ers.usda.gov/data-products/food-environment-atlas/) which aims to provide insight into diet and food choice along with, "to provide a spatial overview of a community's ability to access healthy food and its success in doing so." 
 
 Question 1: How does each variable related to food deserts or obesity nationwide?
 
