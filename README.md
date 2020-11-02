@@ -26,15 +26,18 @@ Lorem ipsum...
 
 ### Alcohol Sales
 
-Utilizing the dataset from the National Institute on Alcohol Abuse and Alcoholism and the covid dataset from Johns Hopkins, I wanted to see if there was any correlation between the alcohol sales in the US and the number of confirmed covid cases, the number of covid deaths, and the testing rate for the states included in the alcohol sales dataset. Furthermore, I wanted to see if there was an increase in alcohol sales in 2020 compared to the past 3 years (2017-2019). Based on my findings, I can conclude that:
--alcohol sales per capita did not have a significant correlation with the number of confirmed covid cases as the r2 value is .004. 
--alcohol sales per capita did not have a significant correlation with the number of confirmed covid deaths as the r2 value is .002. 
--alcohol sales per capita did not have a significant correlation with the testing rate of US states as the r2 value is .013.
-It can also be concluded that there was an increase in alcohol sales per capita for 2020 compared to the previous three years as seen in the included line plot.
+Lorem ipsum...
 
 ### Unemployment
+#### Is the Colorado Unemployment rate in line with the National Unemplyment rate?
+When looking at the unemployment data, I was able to find that the Colorado and National Unemployment data was corelated via a line graph and a scatter plot. I wanted to see if the Colorado unemployment was a good sample of the national unemployment data.
+![# Is the Colorado Unemployment rate in line with the National Unemplyment rate?](/Project1/Unemployment/Output/2020_National_and_Colorado_UnemploymentRates.png)
 
-Lorem ipsum
+#### Is there a direct correlation with the Colorado Unemplyment rate and the National Unemployment Rate?
+WHen looking at the scatter plot for the unemployment data, there was a correlation of the r-value of 0.886 which meant that Colorado was a good sample size for the national data set.
+
+#### Is there a correlation between confirmed cases and deaths from COVID-19?
+#### Is there a relation between unemplyment rates and covid cases?
 
 ## Conclusions
 
