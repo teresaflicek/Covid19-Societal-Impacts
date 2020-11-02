@@ -42,7 +42,7 @@ As for vaccines, the CDC data is available as a DAT file containing a lot of num
 
 ### Income
 
-Lorem ipsum...
+In this portion of the project I looked into COVID-19 key metrics concerning cases, incidence, mortality, and testing data to see if median family income per state, wealthier vs poorer states, to see if an correlations could be attained. My hypothesis entering the research was that median income of a state might play a role in determining how an individual state is preforming overall in terms of previously mentioned health metrics during the pandemic. After completeing some analysis of the data I was able to uncover some correlation between the data and median income. The cumulative rates for mortality, incident rate, and testing rates, all showed either a positive or negative correaltion with state median income. As a general trend the wealthier states had overall lower incident rates and greater levels of testing completed than those on the lower end of the scale. However the mortaility rate stands out in opposition to those values tending to be higher in the wealthy states. This difference was likely the result of many factors, but highlights the socioeconimic complications of the pandemic. With a lack of an overall federal response to the pandemic, the states have been left to bare the burden of the costs of responding to the crisis. As a result the wealthier states tend to be fairing better overall outside of the initial deadly first months of the pandemic. 
 
 ### Alcohol Sales
 
