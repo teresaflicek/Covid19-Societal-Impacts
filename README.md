@@ -75,15 +75,15 @@ Utilizing the dataset from the National Institute on Alcohol Abuse and Alcoholis
 Furthermore, I wanted to see if there was an increase in alcohol sales in 2020 compared to the past 3 years (2017-2019).
 
 Based on my findings, I can conclude that:
--alcohol sales per capita did not have a significant correlation with the number of confirmed covid cases as the r2 value is .004. 
+Alcohol sales per capita did not have a significant correlation with the number of confirmed covid cases as the r2 value is .004. 
 
 ![Scatter plot with linear regression for Alcohol Sales Per Capita vs Confirmed Covid Cases](AlcoholSales/Output/Alc-Sales-PerCapita-vs-Confirmed-Cases.png)
 
--alcohol sales per capita did not have a significant correlation with the number of confirmed covid deaths as the r2 value is .002. 
+Alcohol sales per capita did not have a significant correlation with the number of confirmed covid deaths as the r2 value is .002. 
 
 ![Scatter plot with linear regression for Alcohol Sales Per Capita vs Covid Deaths](AlcoholSales/Output/Alc-Sales-PerCapita-vs-Covid-Deaths.png)
 
--alcohol sales per capita did not have a significant correlation with the testing rate of US states as the r2 value is .013.
+Alcohol sales per capita did not have a significant correlation with the testing rate of US states as the r2 value is .013.
 
 ![Scatter plot with linear regression for Alcohol Sales Per Capita vs Covid Testing Rate](AlcoholSales/Output/Alc-Sales-PerCapita-vs-Testing-Rate.png)
 
