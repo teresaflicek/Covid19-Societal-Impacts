@@ -58,6 +58,8 @@ As a general trend the wealthier states had overall lower incident rates and gre
 
 ![Incident Rate vs Median State Income](MedianIncome/Output/incident_rate_scatter.png)
 
+As depicted there is a correlation just none which are very strong.
+
 ![Testing Rate vs Median State Income](MedianIncome/Output/testing_rate_scatter.png)
 
 However the mortaility rate stands out in opposition to those values tending to be higher in the wealthy states. 
