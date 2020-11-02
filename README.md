@@ -8,7 +8,7 @@ The Branch Covidians:
 - Patrick Hudson
 - Tempest Campbell
 
-## Overview
+### Overview
 
 Lorem ipsum...
 
@@ -17,6 +17,10 @@ Lorem ipsum...
 Lorem ipsum...
 
 ### Faith in Science
+
+Lorem ipsum...
+
+### Income
 
 Lorem ipsum...
 
