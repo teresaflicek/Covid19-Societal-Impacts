@@ -14,7 +14,17 @@ In the face of the greatest global pandemic since 1919, data scientists have rol
 
 ### Obesity and Food Deserts
 
-Lorem ipsum...
+Question 1: How does each variable related to food deserts or obesity nationwide?
+
+Conclusion: Each variable tends to have a positive correlation to the confirmed cases and deaths across the USA. As well, each scatter plot comes with a relatively high r-squared value which signifies a high correlation between the two variables. This tells me that overall health is extremely important in terms of how deadly COVID-19 is. Poor health has been positively linked to a higher death rate by scientists so this wasn't extremely shocking to me. What did interest me initially was the extremely high correlation between the amount of convenience stores and the number of confirmed cases (r-squared of 0.895). I later realized this might have to do more with the fact that a greater number of convenience stores means a higher population in said state, meaning a greater percentage of confirmed and deaths. 
+
+What's next?: Due to the last realization that more convenience stores = more confirmed cases / deaths due to population size or density, I decided to look at each variable in per capita to see if this would result in less of a bias towards a state's population.
+
+Question 2: How does each variable related to food deserts or obesity nationwide when converted into per capita statistics?
+
+Conclusion: Again, each variable tends to have a positive correlation to the confirmed cases and deaths across the USA. Without the r-squared value, I am unable to see exactly how the variables correlate to each other and if they relate closely. Overall, I feel as if I was unable to come to a firm conclusion for the per capita stats. Given time, I do think there will be a general positive correlation between the variables.
+
+What's next?: Due to time constraints, I wasn't able to see my idea to its full potential. Given more time, I would want to compare confirmed cases and deaths to convenience store locations around the nation and in specific states (top 5, bottom 5 for confirmed cases/deaths) using a heatmap or similar visual. I believe this would prove fruitful as it would give an indication has to what populations are contracting / dying from COVID-19 at a higher rate and their general location in relation to convenience stores or grocery stores.
 
 ### Faith in Science
 
