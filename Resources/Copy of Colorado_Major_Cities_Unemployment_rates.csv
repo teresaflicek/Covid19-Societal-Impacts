@@ -1,0 +1,1543 @@
+﻿Data List: Colorado Major Cities Unemployment rates
+Data Updated: 2020-10-20
+
+FRED (Federal Reserve Economic Data)
+Link: https://fred.stlouisfed.org
+Help: https://fred.stlouisfed.org/help-faq
+Economic Research Division
+Federal Reserve Bank of St. Louis
+
+Series ID:
+ATNHPIUS19740Q
+
+Title:
+"All-Transactions House Price Index for Denver-Aurora-Lakewood, CO"
+(MSA)
+
+Source:
+U.S. Federal Housing Finance Agency
+
+Release:
+House Price Index
+
+Units:
+Index 1995:Q1=100
+
+Frequency:
+Quarterly
+
+Seasonal Adjustment:
+Not Seasonally Adjusted
+
+Notes:
+Estimated using sales prices and appraisal data.
+
+
+
+Series ID:
+CE16OV
+
+Title:
+Employment Level
+
+Source:
+U.S. Bureau of Labor Statistics
+
+Release:
+Employment Situation
+
+Units:
+Thousands of Persons
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Seasonally Adjusted
+
+Notes:
+The civilian noninstitutional population is defined as: persons 16
+years of age and older residing in the 50 states and the District of
+"Columbia, who are not inmates of institutions (e.g., penal and mental"
+"facilities, homes for the aged), and who are not on active duty in the"
+Armed Forces.
+
+The series comes from the 'Current Population Survey (Household
+Survey)'
+
+The source code is: LNS12000000
+
+
+
+Series ID:
+CIVPART
+
+Title:
+Labor Force Participation Rate
+
+Source:
+U.S. Bureau of Labor Statistics
+
+Release:
+Employment Situation
+
+Units:
+Percent
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Seasonally Adjusted
+
+Notes:
+The series comes from the 'Current Population Survey (Household
+Survey)'
+
+The source code is: LNS11300000
+
+
+
+Series ID:
+CLF16OV
+
+Title:
+Civilian Labor Force Level
+
+Source:
+U.S. Bureau of Labor Statistics
+
+Release:
+Employment Situation
+
+Units:
+Thousands of Persons
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Seasonally Adjusted
+
+Notes:
+Persons 16 years of age and older.
+
+The series comes from the 'Current Population Survey (Household
+Survey)'
+
+The source code is: LNS11000000
+
+
+
+Series ID:
+CNP16OV
+
+Title:
+Population Level
+
+Source:
+U.S. Bureau of Labor Statistics
+
+Release:
+Employment Situation
+
+Units:
+Thousands of Persons
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Not Seasonally Adjusted
+
+Notes:
+Civilian noninstitutional population is defined as persons 16 years of
+"age and older residing in the 50 states and the District of Columbia,"
+"who are not inmates of institutions (e.g., penal and mental"
+"facilities, homes for the aged), and who are not on active duty in the"
+Armed Forces.
+
+The series comes from the 'Current Population Survey (Household
+Survey)'
+
+The source code is: LNU00000000
+
+
+
+Series ID:
+DENV708GOVT
+
+Title:
+"All Employees: Government in Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+U.S. Bureau of Labor Statistics
+
+Release:
+State Employment and Unemployment
+
+Units:
+Thousands of Persons
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Seasonally Adjusted
+
+Notes:
+The Federal Reserve Bank of St. Louis seasonally adjusts this series
+by using the 'statsmodel' library from Python with default parameter
+settings. The package uses the U.S. Bureau of the Census
+X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the
+statsmodel' X-13ARIMA-SEATS package can be found here
+(https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html).
+More information on X-13ARIMA-SEATS can be found here
+(https://www.census.gov/srd/www/x13as/).
+
+Many series include both seasonally adjusted (SA) and not seasonally
+"adjusted (NSA) data. Occasionally, updates to the data will not"
+include sufficient seasonal factors to trigger a seasonal adjustment.
+"In these cases, the NSA series will be updated normally; but the SA"
+series will also be updated with the NSA data. The NSA series can be
+located here here (https://fred.stlouisfed.org/series/DENV708GOVTN).
+
+Some seasonally adjusted series may exhibit negative values because
+they are created from a seasonal adjustment process regardless of the
+"actual meaning or interpretation of the given indicator."""
+
+
+
+Series ID:
+DENV708GOVTN
+
+Title:
+"All Employees: Government in Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+U.S. Bureau of Labor Statistics
+
+Release:
+State Employment and Unemployment
+
+Units:
+Thousands of Persons
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Not Seasonally Adjusted
+
+
+
+Series ID:
+DENV708INFO
+
+Title:
+"All Employees: Information in Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+U.S. Bureau of Labor Statistics
+
+Release:
+State Employment and Unemployment
+
+Units:
+Thousands of Persons
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Seasonally Adjusted
+
+Notes:
+The Federal Reserve Bank of St. Louis seasonally adjusts this series
+by using the 'statsmodel' library from Python with default parameter
+settings. The package uses the U.S. Bureau of the Census
+X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the
+statsmodel' X-13ARIMA-SEATS package can be found here
+(https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html).
+More information on X-13ARIMA-SEATS can be found here
+(https://www.census.gov/srd/www/x13as/).
+
+Many series include both seasonally adjusted (SA) and not seasonally
+"adjusted (NSA) data. Occasionally, updates to the data will not"
+include sufficient seasonal factors to trigger a seasonal adjustment.
+"In these cases, the NSA series will be updated normally; but the SA"
+series will also be updated with the NSA data. The NSA series can be
+located here here (https://fred.stlouisfed.org/series/DENV708INFON).
+
+Some seasonally adjusted series may exhibit negative values because
+they are created from a seasonal adjustment process regardless of the
+"actual meaning or interpretation of the given indicator."""
+
+
+
+Series ID:
+DENV708INFON
+
+Title:
+"All Employees: Information in Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+U.S. Bureau of Labor Statistics
+
+Release:
+State Employment and Unemployment
+
+Units:
+Thousands of Persons
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Not Seasonally Adjusted
+
+
+
+Series ID:
+DENV708MFG
+
+Title:
+"All Employees: Manufacturing in Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+U.S. Bureau of Labor Statistics
+
+Release:
+State Employment and Unemployment
+
+Units:
+Thousands of Persons
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Seasonally Adjusted
+
+Notes:
+The Federal Reserve Bank of St. Louis seasonally adjusts this series
+by using the 'statsmodel' library from Python with default parameter
+settings. The package uses the U.S. Bureau of the Census
+X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the
+statsmodel' X-13ARIMA-SEATS package can be found here
+(https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html).
+More information on X-13ARIMA-SEATS can be found here
+(https://www.census.gov/srd/www/x13as/).
+
+Many series include both seasonally adjusted (SA) and not seasonally
+"adjusted (NSA) data. Occasionally, updates to the data will not"
+include sufficient seasonal factors to trigger a seasonal adjustment.
+"In these cases, the NSA series will be updated normally; but the SA"
+series will also be updated with the NSA data. The NSA series can be
+located here here (https://fred.stlouisfed.org/series/DENV708MFGN).
+
+Some seasonally adjusted series may exhibit negative values because
+they are created from a seasonal adjustment process regardless of the
+"actual meaning or interpretation of the given indicator."""
+
+
+
+Series ID:
+DENV708MFGN
+
+Title:
+"All Employees: Manufacturing in Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+U.S. Bureau of Labor Statistics
+
+Release:
+State Employment and Unemployment
+
+Units:
+Thousands of Persons
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Not Seasonally Adjusted
+
+
+
+Series ID:
+DENV708NA
+
+Title:
+"All Employees: Total Nonfarm in Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+U.S. Bureau of Labor Statistics
+
+Release:
+State Employment and Unemployment
+
+Units:
+Thousands of Persons
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Seasonally Adjusted
+
+
+
+Series ID:
+DENV708NAN
+
+Title:
+"All Employees: Total Nonfarm in Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+U.S. Bureau of Labor Statistics
+
+Release:
+State Employment and Unemployment
+
+Units:
+Thousands of Persons
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Not Seasonally Adjusted
+
+
+
+Series ID:
+DENV708UR
+
+Title:
+"Unemployment Rate in Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+U.S. Bureau of Labor Statistics
+
+Release:
+Metropolitan Area Employment and Unemployment
+
+Units:
+Percent
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Smoothed Seasonally Adjusted
+
+
+
+Series ID:
+DENV708URN
+
+Title:
+"Unemployment Rate in Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+U.S. Bureau of Labor Statistics
+
+Release:
+Metropolitan Area Employment and Unemployment
+
+Units:
+Percent
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Not Seasonally Adjusted
+
+
+
+Series ID:
+DNVPOP
+
+Title:
+"Resident Population in Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+U.S. Census Bureau
+
+Release:
+Annual Estimates of the Population of Metropolitan and Micropolitan
+Statistical Areas
+
+Units:
+Thousands of Persons
+
+Frequency:
+Annual
+
+Seasonal Adjustment:
+Not Seasonally Adjusted
+
+Notes:
+All observations are July 1 estimates of each year.
+
+
+
+Series ID:
+EMRATIO
+
+Title:
+Employment-Population Ratio
+
+Source:
+U.S. Bureau of Labor Statistics
+
+Release:
+Employment Situation
+
+Units:
+Percent
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Seasonally Adjusted
+
+Notes:
+The series comes from the 'Current Population Survey (Household
+Survey)'
+
+The source code is: LNS12300000
+
+
+
+Series ID:
+HORAMMMSA19740
+
+Title:
+"Market Hotness: Hotness Rank in Denver-Aurora-Lakewood, CO (CBSA)"
+
+Source:
+Realtor.com
+
+Release:
+Market Hotness Index
+
+Units:
+Rank Change
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Not Seasonally Adjusted
+
+Notes:
+"Market hotness rank for the specified zip code, county, or metro"
+"area's compared to all other zip codes, counties and metro areas"
+nationally. A rank value of 1 is considered the hottest in the
+country.
+
+The change in Hotness rank from the previous month. A positive value
+"indicates a market has cooled down (moved down in ranking), and a"
+negative value indicates a market has heated up (moved up in ranking).
+
+
+
+Series ID:
+HORAMSA19740
+
+Title:
+"Market Hotness: Hotness Rank in Denver-Aurora-Lakewood, CO (CBSA)"
+
+Source:
+Realtor.com
+
+Release:
+Market Hotness Index
+
+Units:
+Rank
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Not Seasonally Adjusted
+
+Notes:
+"Market hotness rank for the specified zip code, county, or metro"
+"area's compared to all other zip codes, counties and metro areas"
+nationally. A rank value of 1 is considered the hottest in the
+country.
+
+
+
+Series ID:
+HORAYYMSA19740
+
+Title:
+"Market Hotness: Hotness Rank in Denver-Aurora-Lakewood, CO (CBSA)"
+
+Source:
+Realtor.com
+
+Release:
+Market Hotness Index
+
+Units:
+Rank Change from Year Ago
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Not Seasonally Adjusted
+
+Notes:
+"Market hotness rank for the specified zip code, county, or metro"
+"area's compared to all other zip codes, counties and metro areas"
+nationally. A rank value of 1 is considered the hottest in the
+country.
+
+The change in Hotness rank from the previous year. A positive value
+"indicates a market has cooled down (moved down in ranking), and a"
+negative value indicates a market has heated up (moved up in ranking).
+
+
+
+Series ID:
+LAUMT081974000000003A
+
+Title:
+"Unemployment Rate in Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+U.S. Bureau of Labor Statistics
+
+Release:
+Metropolitan Area Employment and Unemployment
+
+Units:
+Percent
+
+Frequency:
+Annual
+
+Seasonal Adjustment:
+Not Seasonally Adjusted
+
+
+
+Series ID:
+LAUMT081974000000005
+
+Title:
+"Employed Persons in Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+U.S. Bureau of Labor Statistics
+
+Release:
+Metropolitan Area Employment and Unemployment
+
+Units:
+Persons
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Not Seasonally Adjusted
+
+Notes:
+"These data come from the Current Population Survey (CPS), also known"
+as the household survey.
+
+"Employed persons are all persons who, during the reference week (the"
+"week including the 12th day of the month), (a) did any work as paid"
+"employees, worked in their own business or profession or on their own"
+"farm, or worked 15 hours or more as unpaid workers in an enterprise"
+"operated by a member of their family, or (b) were not working but who"
+"had jobs from which they were temporarily absent because of vacation,"
+"illness, bad weather, childcare problems, maternity or paternity"
+"leave, labor-management dispute, job training, or other family or"
+"personal reasons, whether or not they were paid for the time off or"
+"were seeking other jobs. Each employed person is counted only once,"
+even if he or she holds more than one job.
+
+"For more details, see the release's frequently asked questions"
+(https://www.bls.gov/lau/laufaq.htm).
+
+
+
+Series ID:
+LAUMT081974000000005A
+
+Title:
+"Employed Persons in Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+U.S. Bureau of Labor Statistics
+
+Release:
+Metropolitan Area Employment and Unemployment
+
+Units:
+Persons
+
+Frequency:
+Annual
+
+Seasonal Adjustment:
+Not Seasonally Adjusted
+
+Notes:
+"These data come from the Current Population Survey (CPS), also known"
+as the household survey.
+
+"Employed persons are all persons who, during the reference week (the"
+"week including the 12th day of the month), (a) did any work as paid"
+"employees, worked in their own business or profession or on their own"
+"farm, or worked 15 hours or more as unpaid workers in an enterprise"
+"operated by a member of their family, or (b) were not working but who"
+"had jobs from which they were temporarily absent because of vacation,"
+"illness, bad weather, childcare problems, maternity or paternity"
+"leave, labor-management dispute, job training, or other family or"
+"personal reasons, whether or not they were paid for the time off or"
+"were seeking other jobs. Each employed person is counted only once,"
+even if he or she holds more than one job.
+
+"For more details, see the release's frequently asked questions"
+(https://www.bls.gov/lau/laufaq.htm).
+
+
+
+Series ID:
+LNS15000000
+
+Title:
+Not in Labor Force
+
+Source:
+U.S. Bureau of Labor Statistics
+
+Release:
+Employment Situation
+
+Units:
+Thousands of Persons
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Seasonally Adjusted
+
+Notes:
+The series comes from the 'Current Population Survey (Household
+Survey)'
+
+The source code is: LNS15000000
+
+
+
+Series ID:
+NGMP19740
+
+Title:
+"Total Gross Domestic Product for Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+U.S. Bureau of Economic Analysis
+
+Release:
+"Gross Domestic Product (GDP) by County, Metro, and Other Areas"
+
+Units:
+Millions of Dollars
+
+Frequency:
+Annual
+
+Seasonal Adjustment:
+Not Seasonally Adjusted
+
+Notes:
+The All industry total includes all Private industries and Government.
+
+Gross domestic product (GDP) by metropolitan area is the measure of
+the market value of all final goods and services produced within a
+"metropolitan area in a particular period of time. In concept, an"
+"industry's GDP by metropolitan area, referred to as its ""value added"","
+is equivalent to its gross output (sales or receipts and other
+"operating income, commodity taxes, and inventory change) minus its"
+intermediate inputs (consumption of goods and services purchased from
+other U.S. industries or imported). GDP by metropolitan area is the
+"metropolitan area counterpart of the nation's, BEA's featured measure"
+of U.S. production.
+
+For more information about this release go to
+http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm.
+
+
+
+Series ID:
+NILFWJN
+
+Title:
+Not in Labor Force - Want a Job Now
+
+Source:
+U.S. Bureau of Labor Statistics
+
+Release:
+Employment Situation
+
+Units:
+Thousands of Persons
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Seasonally Adjusted
+
+Notes:
+The series comes from the 'Current Population Survey (Household
+Survey)'
+
+The source code is: LNS15026639
+
+
+
+Series ID:
+PCRGMP19740
+
+Title:
+Total Per Capita Real Gross Domestic Product for
+"Denver-Aurora-Lakewood, CO (MSA) (DISCONTINUED)"
+
+Source:
+U.S. Bureau of Economic Analysis
+
+Release:
+"Gross Domestic Product (GDP) by County, Metro, and Other Areas"
+
+Units:
+Chained 2009 Dollars
+
+Frequency:
+Annual
+
+Seasonal Adjustment:
+Not Seasonally Adjusted
+
+Notes:
+The All industry total includes all Private industries and Government.
+
+Real GDP by metropolitan area is an inflation-adjusted measure of each
+metropolitan area's gross product that is based on national prices for
+the goods and services produced within the metropolitan area. Gross
+Domestic Product of a given area divided by the resident population of
+the area.
+
+For more information about this release go to
+http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm.
+
+
+
+Series ID:
+SMS08197400000000026
+
+Title:
+"All Employees: Total Nonfarm in Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+Federal Reserve Bank of St. Louis
+U.S. Bureau of Labor Statistics
+
+Release:
+"State and Metro Area Employment, Hours, and Earnings"
+
+Units:
+"3-Month Average Change, Thousands of Persons"
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Seasonally Adjusted
+
+
+
+Series ID:
+SMU08197400000000001A
+
+Title:
+"All Employees: Total Nonfarm in Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+Federal Reserve Bank of St. Louis
+U.S. Bureau of Labor Statistics
+
+Release:
+"State and Metro Area Employment, Hours, and Earnings"
+
+Units:
+Thousands of Persons
+
+Frequency:
+Annual
+
+Seasonal Adjustment:
+Not Seasonally Adjusted
+
+
+
+Series ID:
+SMU08197400500000003
+
+Title:
+Average Hourly Earnings of All Employees: Total Private in
+"Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+Federal Reserve Bank of St. Louis
+U.S. Bureau of Labor Statistics
+
+Release:
+"State and Metro Area Employment, Hours, and Earnings"
+
+Units:
+Dollars per Hour
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Not Seasonally Adjusted
+
+
+
+Series ID:
+SMU08197400500000003A
+
+Title:
+Average Hourly Earnings of All Employees: Total Private in
+"Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+Federal Reserve Bank of St. Louis
+U.S. Bureau of Labor Statistics
+
+Release:
+"State and Metro Area Employment, Hours, and Earnings"
+
+Units:
+Dollars per Hour
+
+Frequency:
+Annual
+
+Seasonal Adjustment:
+Not Seasonally Adjusted
+
+
+
+Series ID:
+SMU08197400500000003SA
+
+Title:
+Average Hourly Earnings of All Employees: Total Private in
+"Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+Federal Reserve Bank of St. Louis
+U.S. Bureau of Labor Statistics
+
+Release:
+"State and Metro Area Employment, Hours, and Earnings"
+
+Units:
+Dollars per Hour
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Seasonally Adjusted
+
+Notes:
+The Federal Reserve Bank of St. Louis seasonally adjusts this series
+by using the 'statsmodel' library from Python with default parameter
+settings. The package uses the U.S. Bureau of the Census
+X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the
+statsmodel' X-13ARIMA-SEATS package can be found here
+(https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html).
+More information on X-13ARIMA-SEATS can be found here
+(https://www.census.gov/srd/www/x13as/).
+
+Many series include both seasonally adjusted (SA) and not seasonally
+"adjusted (NSA) data. Occasionally, updates to the data will not"
+include sufficient seasonal factors to trigger a seasonal adjustment.
+"In these cases, the NSA series will be updated normally; but the SA"
+series will also be updated with the NSA data. The NSA series can be
+located here here
+(https://fred.stlouisfed.org/series/SMU08197400500000003).
+
+Some seasonally adjusted series may exhibit negative values because
+they are created from a seasonal adjustment process regardless of the
+"actual meaning or interpretation of the given indicator."""
+
+
+
+Series ID:
+SMU08197402023600001
+
+Title:
+All Employees: Construction: Construction of Buildings in
+"Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+Federal Reserve Bank of St. Louis
+U.S. Bureau of Labor Statistics
+
+Release:
+"State and Metro Area Employment, Hours, and Earnings"
+
+Units:
+Thousands of Persons
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Not Seasonally Adjusted
+
+
+
+Series ID:
+SMU08197402023600001A
+
+Title:
+All Employees: Construction: Construction of Buildings in
+"Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+Federal Reserve Bank of St. Louis
+U.S. Bureau of Labor Statistics
+
+Release:
+"State and Metro Area Employment, Hours, and Earnings"
+
+Units:
+Thousands of Persons
+
+Frequency:
+Annual
+
+Seasonal Adjustment:
+Not Seasonally Adjusted
+
+
+
+Series ID:
+SMU08197402023600001SA
+
+Title:
+All Employees: Construction: Construction of Buildings in
+"Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+Federal Reserve Bank of St. Louis
+U.S. Bureau of Labor Statistics
+
+Release:
+"State and Metro Area Employment, Hours, and Earnings"
+
+Units:
+Thousands of Persons
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Seasonally Adjusted
+
+Notes:
+The Federal Reserve Bank of St. Louis seasonally adjusts this series
+by using the 'statsmodel' library from Python with default parameter
+settings. The package uses the U.S. Bureau of the Census
+X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the
+statsmodel' X-13ARIMA-SEATS package can be found here
+(https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html).
+More information on X-13ARIMA-SEATS can be found here
+(https://www.census.gov/srd/www/x13as/).
+
+Many series include both seasonally adjusted (SA) and not seasonally
+"adjusted (NSA) data. Occasionally, updates to the data will not"
+include sufficient seasonal factors to trigger a seasonal adjustment.
+"In these cases, the NSA series will be updated normally; but the SA"
+series will also be updated with the NSA data. The NSA series can be
+located here here
+(https://fred.stlouisfed.org/series/SMU08197402023600001).
+
+Some seasonally adjusted series may exhibit negative values because
+they are created from a seasonal adjustment process regardless of the
+"actual meaning or interpretation of the given indicator."""
+
+
+
+Series ID:
+SMU08197403000000001A
+
+Title:
+"All Employees: Manufacturing in Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+Federal Reserve Bank of St. Louis
+U.S. Bureau of Labor Statistics
+
+Release:
+"State and Metro Area Employment, Hours, and Earnings"
+
+Units:
+Thousands of Persons
+
+Frequency:
+Annual
+
+Seasonal Adjustment:
+Not Seasonally Adjusted
+
+
+
+Series ID:
+SMU08197403200000001
+
+Title:
+All Employees: Manufacturing: Non-Durable Goods in
+"Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+Federal Reserve Bank of St. Louis
+U.S. Bureau of Labor Statistics
+
+Release:
+"State and Metro Area Employment, Hours, and Earnings"
+
+Units:
+Thousands of Persons
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Not Seasonally Adjusted
+
+
+
+Series ID:
+SMU08197403200000001A
+
+Title:
+All Employees: Manufacturing: Non-Durable Goods in
+"Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+Federal Reserve Bank of St. Louis
+U.S. Bureau of Labor Statistics
+
+Release:
+"State and Metro Area Employment, Hours, and Earnings"
+
+Units:
+Thousands of Persons
+
+Frequency:
+Annual
+
+Seasonal Adjustment:
+Not Seasonally Adjusted
+
+
+
+Series ID:
+SMU08197403200000001SA
+
+Title:
+All Employees: Manufacturing: Non-Durable Goods in
+"Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+Federal Reserve Bank of St. Louis
+U.S. Bureau of Labor Statistics
+
+Release:
+"State and Metro Area Employment, Hours, and Earnings"
+
+Units:
+Thousands of Persons
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Seasonally Adjusted
+
+Notes:
+The Federal Reserve Bank of St. Louis seasonally adjusts this series
+by using the 'statsmodel' library from Python with default parameter
+settings. The package uses the U.S. Bureau of the Census
+X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the
+statsmodel' X-13ARIMA-SEATS package can be found here
+(https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html).
+More information on X-13ARIMA-SEATS can be found here
+(https://www.census.gov/srd/www/x13as/).
+
+Many series include both seasonally adjusted (SA) and not seasonally
+"adjusted (NSA) data. Occasionally, updates to the data will not"
+include sufficient seasonal factors to trigger a seasonal adjustment.
+"In these cases, the NSA series will be updated normally; but the SA"
+series will also be updated with the NSA data. The NSA series can be
+located here here
+(https://fred.stlouisfed.org/series/SMU08197403200000001).
+
+Some seasonally adjusted series may exhibit negative values because
+they are created from a seasonal adjustment process regardless of the
+"actual meaning or interpretation of the given indicator."""
+
+
+
+Series ID:
+SMU08197405000000001A
+
+Title:
+"All Employees: Information in Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+Federal Reserve Bank of St. Louis
+U.S. Bureau of Labor Statistics
+
+Release:
+"State and Metro Area Employment, Hours, and Earnings"
+
+Units:
+Thousands of Persons
+
+Frequency:
+Annual
+
+Seasonal Adjustment:
+Not Seasonally Adjusted
+
+
+
+Series ID:
+SMU08197406054130001SA
+
+Title:
+"All Employees: Professional and Business Services: Architectural,"
+"Engineering, and Related Services in Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+Federal Reserve Bank of St. Louis
+U.S. Bureau of Labor Statistics
+
+Release:
+"State and Metro Area Employment, Hours, and Earnings"
+
+Units:
+Thousands of Persons
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Seasonally Adjusted
+
+Notes:
+The Federal Reserve Bank of St. Louis seasonally adjusts this series
+by using the 'statsmodel' library from Python with default parameter
+settings. The package uses the U.S. Bureau of the Census
+X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the
+statsmodel' X-13ARIMA-SEATS package can be found here
+(https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html).
+More information on X-13ARIMA-SEATS can be found here
+(https://www.census.gov/srd/www/x13as/).
+
+Many series include both seasonally adjusted (SA) and not seasonally
+"adjusted (NSA) data. Occasionally, updates to the data will not"
+include sufficient seasonal factors to trigger a seasonal adjustment.
+"In these cases, the NSA series will be updated normally; but the SA"
+series will also be updated with the NSA data. The NSA series can be
+located here here
+(https://fred.stlouisfed.org/series/SMU08197406054130001).
+
+Some seasonally adjusted series may exhibit negative values because
+they are created from a seasonal adjustment process regardless of the
+"actual meaning or interpretation of the given indicator."""
+
+
+
+Series ID:
+SMU08197407072259001
+
+Title:
+All Employees: Leisure and Hospitality: Limited-Service Restaurants
+"and Other Eating Places in Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+Federal Reserve Bank of St. Louis
+U.S. Bureau of Labor Statistics
+
+Release:
+"State and Metro Area Employment, Hours, and Earnings"
+
+Units:
+Thousands of Persons
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Not Seasonally Adjusted
+
+
+
+Series ID:
+SMU08197407072259001A
+
+Title:
+All Employees: Leisure and Hospitality: Limited-Service Restaurants
+"and Other Eating Places in Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+Federal Reserve Bank of St. Louis
+U.S. Bureau of Labor Statistics
+
+Release:
+"State and Metro Area Employment, Hours, and Earnings"
+
+Units:
+Thousands of Persons
+
+Frequency:
+Annual
+
+Seasonal Adjustment:
+Not Seasonally Adjusted
+
+
+
+Series ID:
+SMU08197407072259001SA
+
+Title:
+All Employees: Leisure and Hospitality: Limited-Service Restaurants
+"and Other Eating Places in Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+Federal Reserve Bank of St. Louis
+U.S. Bureau of Labor Statistics
+
+Release:
+"State and Metro Area Employment, Hours, and Earnings"
+
+Units:
+Thousands of Persons
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Seasonally Adjusted
+
+Notes:
+The Federal Reserve Bank of St. Louis seasonally adjusts this series
+by using the 'statsmodel' library from Python with default parameter
+settings. The package uses the U.S. Bureau of the Census
+X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the
+statsmodel' X-13ARIMA-SEATS package can be found here
+(https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html).
+More information on X-13ARIMA-SEATS can be found here
+(https://www.census.gov/srd/www/x13as/).
+
+Many series include both seasonally adjusted (SA) and not seasonally
+"adjusted (NSA) data. Occasionally, updates to the data will not"
+include sufficient seasonal factors to trigger a seasonal adjustment.
+"In these cases, the NSA series will be updated normally; but the SA"
+series will also be updated with the NSA data. The NSA series can be
+located here here
+(https://fred.stlouisfed.org/series/SMU08197407072259001).
+
+Some seasonally adjusted series may exhibit negative values because
+they are created from a seasonal adjustment process regardless of the
+"actual meaning or interpretation of the given indicator."""
+
+
+
+Series ID:
+SMU08197409000000001A
+
+Title:
+"All Employees: Government in Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+Federal Reserve Bank of St. Louis
+U.S. Bureau of Labor Statistics
+
+Release:
+"State and Metro Area Employment, Hours, and Earnings"
+
+Units:
+Thousands of Persons
+
+Frequency:
+Annual
+
+Seasonal Adjustment:
+Not Seasonally Adjusted
+
+
+
+Series ID:
+SMU08197409091000001
+
+Title:
+All Employees: Government: Federal Government in
+"Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+Federal Reserve Bank of St. Louis
+U.S. Bureau of Labor Statistics
+
+Release:
+"State and Metro Area Employment, Hours, and Earnings"
+
+Units:
+Thousands of Persons
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Not Seasonally Adjusted
+
+
+
+Series ID:
+SMU08197409091000001SA
+
+Title:
+All Employees: Government: Federal Government in
+"Denver-Aurora-Lakewood, CO (MSA)"
+
+Source:
+Federal Reserve Bank of St. Louis
+U.S. Bureau of Labor Statistics
+
+Release:
+"State and Metro Area Employment, Hours, and Earnings"
+
+Units:
+Thousands of Persons
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Seasonally Adjusted
+
+Notes:
+The Federal Reserve Bank of St. Louis seasonally adjusts this series
+by using the 'statsmodel' library from Python with default parameter
+settings. The package uses the U.S. Bureau of the Census
+X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the
+statsmodel' X-13ARIMA-SEATS package can be found here
+(https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html).
+More information on X-13ARIMA-SEATS can be found here
+(https://www.census.gov/srd/www/x13as/).
+
+Many series include both seasonally adjusted (SA) and not seasonally
+"adjusted (NSA) data. Occasionally, updates to the data will not"
+include sufficient seasonal factors to trigger a seasonal adjustment.
+"In these cases, the NSA series will be updated normally; but the SA"
+series will also be updated with the NSA data. The NSA series can be
+located here here
+(https://fred.stlouisfed.org/series/SMU08197409091000001).
+
+Some seasonally adjusted series may exhibit negative values because
+they are created from a seasonal adjustment process regardless of the
+"actual meaning or interpretation of the given indicator."""
+
+
+
+Series ID:
+UNEMPLOY
+
+Title:
+Unemployment Level
+
+Source:
+U.S. Bureau of Labor Statistics
+
+Release:
+Employment Situation
+
+Units:
+Thousands of Persons
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Seasonally Adjusted
+
+Notes:
+The series comes from the 'Current Population Survey (Household
+Survey)'
+
+The source code is: LNS13000000
+
+
+
+Series ID:
+UNRATE
+
+Title:
+Unemployment Rate
+
+Source:
+U.S. Bureau of Labor Statistics
+
+Release:
+Employment Situation
+
+Units:
+Percent
+
+Frequency:
+Monthly
+
+Seasonal Adjustment:
+Seasonally Adjusted
+
+Notes:
+The unemployment rate represents the number of unemployed as a
+percentage of the labor force. Labor force data are restricted to
+"people 16 years of age and older, who currently reside in 1 of the 50"
+"states or the District of Columbia, who do not reside in institutions"
+"(e.g., penal and mental facilities, homes for the aged), and who are"
+not on active duty in the Armed Forces.
+
+This rate is also defined as the U-3 measure of labor
+underutilization.
+
+The series comes from the 'Current Population Survey (Household
+Survey)'
+
+The source code is: LNS14000000
