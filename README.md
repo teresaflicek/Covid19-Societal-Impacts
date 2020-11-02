@@ -63,11 +63,11 @@ Furthermore, I wanted to see if there was an increase in alcohol sales in 2020 c
 Based on my findings, I can conclude that:
 -alcohol sales per capita did not have a significant correlation with the number of confirmed covid cases as the r2 value is .004. 
 
-![Scatter plot with linear regression for Alcohol Sales Per Capita vs Confirmed Covid Cases](https://github.com/teresaflicek/Project1/blob/main/AlcoholSales/Output/Alc-Sales-PerCapita-vs-Confirmed-Cases.png)
+![Scatter plot with linear regression for Alcohol Sales Per Capita vs Confirmed Covid Cases](AlcoholSales/Output/Alc-Sales-PerCapita-vs-Confirmed-Cases.png)
 
 -alcohol sales per capita did not have a significant correlation with the number of confirmed covid deaths as the r2 value is .002. 
 
-![Scatter plot with linear regression for Alcohol Sales Per Capita vs Covid Deaths](https://github.com/teresaflicek/Project1/blob/main/AlcoholSales/Output/Alc-Sales-PerCapita-vs-Covid%20Deaths.png)
+![Scatter plot with linear regression for Alcohol Sales Per Capita vs Covid Deaths](AlcoholSales/Output/Alc-Sales-PerCapita-vs-Covid-Deaths.png)
 
 -alcohol sales per capita did not have a significant correlation with the testing rate of US states as the r2 value is .013.
 
@@ -75,20 +75,23 @@ Based on my findings, I can conclude that:
 
 It can also be concluded that there was an increase in alcohol sales per capita for 2020 compared to the previous three years as seen in the included line plot.
 
-![Multi Line plot that shows variance in alcohol sales over the past 4 years](https://github.com/teresaflicek/Project1/blob/main/AlcoholSales/Output/Alc-Sales-PerCapita-vs-Testing-Rate.png)
+![Multi Line plot that shows variance in alcohol sales over the past 4 years](AlcoholSales/Output/Alc-Sales-PerCapita-past-4-years.png)
 
 ### Unemployment
 #### Is the Colorado Unemployment rate in line with the National Unemplyment rate?
 When looking at the unemployment data, I was able to find that the Colorado and National Unemployment data was corelated via a line graph and a scatter plot. I wanted to see if the Colorado unemployment was a good sample of the national unemployment data.
 
-![](/Unemployment/Output/2020_National_and_Colorado_UnemploymentRates.png)
+![2020 Unemployment Line](/Unemployment/Output/2020_National_and_Colorado_UnemploymentRates.png)
 
 #### Is there a direct correlation with the Colorado Unemployment rate and the National Unemployment Rate?
-When looking at the scatter plot for the unemployment data, there was a correlation of the r-value of 0.886 which meant that Colorado was a good sample size for the national data set.
+When looking at the scatter plot for the unemployment data, there was a correlation of the r-value of 0.9 which meant that Colorado was a good sample size for the national data set.
 
-![](/Unemployment/Output/2020 National vs. Colorado Unemployment Rate.png)
+![2020 Unemployment Scatter](https://github.com/teresaflicek/Project1/blob/main/Unemployment/Output/2020%20National%20vs.%20Colorado%20Unemployment%20Rate.png?raw=true)
 
 #### Is there a correlation between confirmed cases and deaths from COVID-19?
+When looking at the scatter plot for the COVID-19 data, there was a correlation of the r-value of 0.6 which meant that there was a strong correlation between cases and deaths.
 
-#### Is there a relation between unemplyment rates and covid cases?
+![Confirmed vs Deaths](https://github.com/teresaflicek/Project1/blob/main/Unemployment/Output/Confirmed%20vs%20Deaths.png?raw=true)
 
+#### Is there a relation between unemployment rates and covid cases?
+When working with this data, I realized that I needed a new data set to match the unemployment data I had in order to compare the two data sets. Time was not on my side for searching for new/more data. 
