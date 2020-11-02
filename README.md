@@ -56,7 +56,7 @@ In this portion of the project I looked into COVID-19 key metrics concerning cas
 
 As a general trend the wealthier states had overall lower incident rates and greater levels of testing completed than those on the lower end of the scale.
 
-![Incident Rate vs Median State Income](MedianIncome/Output/incident_rate_scatter.png)
+![Incident Rate vs Median State Income](MedianIncome/Output/Incident_rate_scatter.png)
 
 As depicted there is a correlation just none which are very strong.
 
