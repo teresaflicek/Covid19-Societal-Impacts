@@ -36,7 +36,7 @@ What's next?: Due to the last realization that more convenience stores = more co
 
 Question 2: How does each variable related to food deserts or obesity nationwide when converted into per capita statistics?
 
-Conclusion: Again, each variable tends to have a positive correlation to the confirmed cases and deaths across the USA. Without the r-squared value, I am unable to see exactly how the variables correlate to each other and if they relate closely. Overall, I feel as if I was unable to come to a firm conclusion for the per capita stats. Given time, I do think there will be a general positive correlation between the variables and a high r-squared value with each comparison.
+Conclusion: Each variable tends to have a positive correlation to the confirmed cases and deaths across the USA. Without the r-squared value, I am unable to see exactly how the variables correlate to each other and if they relate closely. Overall, I feel as if I was unable to come to a firm conclusion for the per capita stats. Given time, I do think there will be a general positive correlation between the variables and a high r-squared value with each comparison.
 
 ![convenience_stores_confirmed](Nutrition/Output/Top5StatesConfObese.png)
 
