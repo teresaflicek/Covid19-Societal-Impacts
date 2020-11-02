@@ -1,6 +1,6 @@
 # Covid and Society
 
-The Branch Covidians:
+The Git Branch Covidians:
 
 - Tempest Campbell
 - Nick Faber
@@ -10,7 +10,7 @@ The Branch Covidians:
 
 ### Overview
 
-Lorem ipsum...
+In the face of the greatest global pandemic since 1919, data scientists have rolled up their sleeves and gotten to work collecting and analyzing data from all corners of the world. For this project, we each picked a topic of interest and looked for datasets to compare with data on Covid-19, mostly from Johns Hopkins. Below are some of our findings.
 
 ### Obesity and Food Deserts
 
@@ -63,6 +63,3 @@ When looking at the scatter plot for the unemployment data, there was a correlat
 
 #### Is there a relation between unemplyment rates and covid cases?
 
-## Conclusions
-
-Lorem ipsum
