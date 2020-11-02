@@ -56,13 +56,13 @@ In this portion of the project I looked into COVID-19 key metrics concerning cas
 
 As a general trend the wealthier states had overall lower incident rates and greater levels of testing completed than those on the lower end of the scale.
 
-![Incident Rate vs Median State Income](Median Income/Output/incident_rate_scatter.png)
+![Incident Rate vs Median State Income](MedianIncome/Output/incident_rate_scatter.png)
 
-![Testing Rate vs Median State Income](Median Income/Output/testing_rate_scatter.png)
+![Testing Rate vs Median State Income](MedianIncome/Output/testing_rate_scatter.png)
 
 However the mortaility rate stands out in opposition to those values tending to be higher in the wealthy states. 
 
-![Mortality Rate vs Median State Income](Median Income/Output/mortality_rate_scatter.png)
+![Mortality Rate vs Median State Income](MedianIncome/Output/mortality_rate_scatter.png)
 
 This difference was likely the result of many factors, but highlights the socioeconimic complications of the pandemic. With a lack of an overall federal response to the pandemic, the states have been left to bare the burden of the costs of responding to the crisis. As a result the wealthier states tend to be fairing better overall outside of the initial deadly first months of the pandemic. 
 
